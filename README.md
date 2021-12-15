@@ -27,9 +27,10 @@ Semaa and Yvette are building a book swapping management system that allows book
 2) Install the dependencies and run `npm install`
 3) `npm start`
 4) Start Redis server locally: `redis-server` 
+5) To use the RedisInsight GUI, go to https://docs.redis.com/latest/ri/installing/install-redis-desktop/
 
 
-## Functions of this application
+# Functions of this application
 * This is CRUD application that has the capability of:
   * creating users and books
   * reviewing users and books 
