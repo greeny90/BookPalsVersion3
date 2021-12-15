@@ -7,5 +7,11 @@ Semaa and Yvette are building a book swapping management system that allows book
 ## BookPals Home Page:
 ![Website Screenshot]()
 
+## Search User Page:
+![Website Screenshot]()
+
+## Add User Page:
+![Website Screenshot]()
+
 ## UML Class Diagram:
 ![Website Screenshot](https://github.com/greeny90/BookPalsVersion3/blob/main/B%20-%20UML%20Class%20Diagram.png)
