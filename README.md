@@ -24,9 +24,9 @@ Semaa and Yvette are building a book swapping management system that allows book
 # Installation
 
 1) Clone the repository
-2) Install the dependencies 
- run `npm install`
+2) Install the dependencies and run `npm install`
 3) `npm start`
+4) Start Redis server locally: `redis-server` 
 
 
 ## Functions of this application
