@@ -38,5 +38,5 @@ Semaa and Yvette are building a book swapping management system that allows book
   * deleting users and books
 
 ## Authors
-* Yvette Green
 * Semaa Amin
+* Yvette Green
